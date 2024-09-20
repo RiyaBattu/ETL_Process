@@ -1,7 +1,7 @@
 # ETL Project - README
 
 ## Project Overview
-
+<image src="https://github.com/RiyaBattu/ETL_Process/blob/main/ETL.png">
 This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline. We extracted raw data from the **Kaggle API**, performed data cleaning and transformation using **Python**, analyzed the processed data using **SQL**, and visualized insights through **Power BI**.
 
 ## Key Components
